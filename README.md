@@ -3,7 +3,7 @@
 Welcome to the "Python for Linear Regression in Machine Learning" course repository! Created during my Udemy course, this Welcome to the "Python for Linear Regression in Machine Learning" project repository! This repository houses projects and resources developed while exploring Python for Linear Regression in Machine Learning through a Udemy course. Delve into data preprocessing, model optimization, and advanced techniques like Ridge and Lasso Regression. Unlock the potential of Python for creating interpretable and efficient linear models with just a few clicks!
 
 <p align="center">
-  <img width="800" height="450" src="https://st3.depositphotos.com/10325516/16045/i/450/depositphotos_160456810-stock-photo-robot-learning-or-solving-problems.jpg">
+  <img width="800" height="450" src="https://cdn.pixabay.com/photo/2021/01/14/16/52/technology-5917370_1280.png">
 </p>
 
 
